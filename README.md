@@ -216,18 +216,15 @@ A Telegram automation project designed to simplify and automate message forwardi
 
 ---
 
-# 📈 GitHub Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/Mob-Imam-79">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Mob-Imam-79&theme=tokyo-night&hide_border=true&area=true"
-      alt="GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mob-Imam-79&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
 </p>
-
 ---
 
 # 🏆 GitHub Achievements

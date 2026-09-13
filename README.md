@@ -190,17 +190,15 @@ A Telegram automation project designed to simplify and automate message forwardi
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Mob-Imam-79&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=Mob-Imam-79&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mob-Imam-79&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mob-Imam-79&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>

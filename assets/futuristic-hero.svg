@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Md Mobashir Imam — futuristic developer hero</title>
+<desc id="desc">Animated cyberpunk developer profile graphic for Md Mobashir Imam.</desc>
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#05060b"/>
+  <stop offset="0.55" stop-color="#09051a"/>
+  <stop offset="1" stop-color="#020308"/>
+</linearGradient>
+<linearGradient id="cyanPurple" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#00E5FF"/>
+  <stop offset="0.5" stop-color="#7C3AED"/>
+  <stop offset="1" stop-color="#00E5FF"/>
+</linearGradient>
+<radialGradient id="cyanGlow">
+  <stop offset="0" stop-color="#00E5FF" stop-opacity=".9"/>
+  <stop offset=".35" stop-color="#00E5FF" stop-opacity=".25"/>
+  <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="purpleGlow">
+  <stop offset="0" stop-color="#7C3AED" stop-opacity=".8"/>
+  <stop offset=".35" stop-color="#7C3AED" stop-opacity=".22"/>
+  <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+</radialGradient>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+  <feGaussianBlur stdDeviation="4" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="soft" x="-100%" y="-100%" width="300%" height="300%">
+  <feGaussianBlur stdDeviation="14"/>
+</filter>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+  <path d="M32 0H0V32" fill="none" stroke="#00E5FF" stroke-opacity=".10" stroke-width="1"/>
+</pattern>
+<style>
+  .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+  .sans{font-family:Inter,ui-sans-serif,system-ui,sans-serif}
+</style>
+
+</defs>
+
+<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+<rect x="18" y="18" width="1164" height="384" rx="22" fill="url(#grid)"/>
+<ellipse cx="920" cy="205" rx="280" ry="210" fill="url(#cyanGlow)" filter="url(#soft)">
+  <animate attributeName="opacity" values=".45;.9;.45" dur="4s" repeatCount="indefinite"/>
+</ellipse>
+<ellipse cx="1040" cy="80" rx="220" ry="180" fill="url(#purpleGlow)" filter="url(#soft)">
+  <animate attributeName="opacity" values=".25;.7;.25" dur="5s" repeatCount="indefinite"/>
+</ellipse>
+
+<!-- Perspective floor -->
+<g opacity=".42" stroke="#00E5FF" stroke-width="1">
+  <path d="M620 355 L1180 355"/>
+  <path d="M650 370 L1150 370"/>
+  <path d="M690 385 L1110 385"/>
+  <path d="M720 400 L1080 400"/>
+  <path d="M700 340 L760 402"/>
+  <path d="M770 340 L810 402"/>
+  <path d="M840 340 L860 402"/>
+  <path d="M910 340 L910 402"/>
+  <path d="M980 340 L960 402"/>
+  <path d="M1050 340 L1010 402"/>
+</g>
+
+<!-- Orbit rings -->
+<g fill="none" stroke="url(#cyanPurple)" filter="url(#glow)">
+  <ellipse cx="920" cy="205" rx="205" ry="72" stroke-width="2" opacity=".8">
+    <animateTransform attributeName="transform" type="rotate" from="0 920 205" to="360 920 205" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="920" cy="205" rx="205" ry="72" stroke-width="1" opacity=".55" transform="rotate(60 920 205)">
+    <animateTransform attributeName="transform" type="rotate" from="60 920 205" to="-300 920 205" dur="9s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="920" cy="205" rx="150" ry="150" stroke-width="1" opacity=".35" transform="rotate(25 920 205)">
+    <animateTransform attributeName="transform" type="rotate" from="25 920 205" to="385 920 205" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+</g>
+
+<!-- Core -->
+<circle cx="920" cy="205" r="96" fill="#02040a" stroke="#00E5FF" stroke-width="2" filter="url(#glow)"/>
+<circle cx="920" cy="205" r="70" fill="none" stroke="#7C3AED" stroke-opacity=".65" stroke-width="1">
+  <animate attributeName="r" values="65;78;65" dur="3.5s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".3;.9;.3" dur="3.5s" repeatCount="indefinite"/>
+</circle>
+<text x="920" y="196" text-anchor="middle" fill="#E8FBFF" font-size="24" font-weight="800" class="sans">AI</text>
+<text x="920" y="224" text-anchor="middle" fill="#00E5FF" font-size="13" class="mono">SYSTEM ONLINE</text>
+
+<!-- Moving nodes -->
+<g fill="#00E5FF" filter="url(#glow)">
+  <circle cx="715" cy="145" r="4"><animateMotion path="M0 0 Q120 120 205 60 Q100 -50 0 0" dur="7s" repeatCount="indefinite"/></circle>
+  <circle cx="1090" cy="270" r="4"><animateMotion path="M0 0 Q-120 -100 -170 -20 Q-90 80 0 0" dur="8s" repeatCount="indefinite"/></circle>
+  <circle cx="810" cy="330" r="3"><animateMotion path="M0 0 Q80 -80 150 -50 Q80 40 0 0" dur="6s" repeatCount="indefinite"/></circle>
+</g>
+
+<!-- Left typography -->
+<text x="58" y="78" fill="#00E5FF" font-size="12" letter-spacing="4" class="mono">PORTFOLIO // PROFILE_NODE_79</text>
+<text x="58" y="145" fill="#F5F7FF" font-size="45" font-weight="900" letter-spacing="1" class="sans">MD MOBASHIR IMAM</text>
+<text x="60" y="184" fill="#A8B3C7" font-size="18" class="sans">AI/ML Engineer • Python Developer • Software Developer</text>
+<text x="60" y="218" fill="#7C3AED" font-size="16" class="mono">BUILDING INTELLIGENT SYSTEMS</text>
+<text x="60" y="246" fill="#A8B3C7" font-size="15" class="mono">autonomous agents • scalable software • automation</text>
+
+<!-- Terminal -->
+<g transform="translate(58 286)">
+  <rect width="490" height="78" rx="12" fill="#02040a" stroke="#1B2840"/>
+  <circle cx="20" cy="19" r="4" fill="#7C3AED"/>
+  <circle cx="36" cy="19" r="4" fill="#00E5FF"/>
+  <circle cx="52" cy="19" r="4" fill="#667085"/>
+  <text x="20" y="48" fill="#00E5FF" font-size="13" class="mono">$ whoami</text>
+  <text x="105" y="48" fill="#E8FBFF" font-size="13" class="mono">mobashir.imam</text>
+  <rect x="237" y="37" width="7" height="15" fill="#7C3AED">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="20" y="66" fill="#667085" font-size="11" class="mono">NIT Patna • CSE • AI / Backend / DSA</text>
+</g>
+
+</svg>

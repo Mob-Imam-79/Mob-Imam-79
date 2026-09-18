@@ -225,9 +225,9 @@ Interactive browser-based drum kit built with JavaScript.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mob-Imam-79&show_icons=true&hide_border=true&bg_color=05060B&title_color=00E5FF&icon_color=7C3AED&text_color=A8B3C7&ring_color=00E5FF" height="180" alt="GitHub statistics"/>
+<img src="./assets/github-stats.svg" height="180" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mob-Imam-79&layout=compact&hide_border=true&bg_color=05060B&title_color=00E5FF&text_color=A8B3C7" height="180" alt="Top languages"/>
+<img src="./assets/github-top-languages.svg" height="180" alt="Top languages"/>
 
 </div>
 

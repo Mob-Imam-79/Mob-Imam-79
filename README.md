@@ -253,7 +253,7 @@ Interactive browser-based drum kit built with JavaScript.
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Animated 3D GitHub contribution landscape"/>
+<img src="./assets/professional-3d-contribution-landscape-v2.png" width="100%" alt="Animated 3D GitHub contribution landscape"/>
 
 </div>
 

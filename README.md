@@ -1,347 +1,356 @@
-<div align="center">
+<!-- ========================================================= -->
 
-<img src="./assets/futuristic-hero.svg" width="100%" alt="Md Mobashir Imam futuristic developer hero"/>
+<!--                    MD MOBASHIR IMAM                       -->
 
-<br/>
+<!--                 GitHub Profile README                     -->
 
-<a href="https://github.com/Mob-Imam-79">
-<img src="https://img.shields.io/badge/GITHUB-0A0A0F?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com/in/md-mobashir-imam">
-<img src="https://img.shields.io/badge/LINKEDIN-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/>
-</a>
-<a href="mailto:mobashirimam120@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0A0A0F?style=for-the-badge&logo=gmail&logoColor=7C3AED" alt="Email"/>
-</a>
-<a href="https://www.kaggle.com/mdmobashirimam">
-<img src="https://img.shields.io/badge/KAGGLE-0A0A0F?style=for-the-badge&logo=kaggle&logoColor=00E5FF" alt="Kaggle"/>
-</a>
-<a href="https://leetcode.com/mobashir_bits120">
-<img src="https://img.shields.io/badge/LEETCODE-0A0A0F?style=for-the-badge&logo=leetcode&logoColor=7C3AED" alt="LeetCode"/>
-</a>
-<a href="https://codeforces.com/profile/mdmobashirsiddique">
-<img src="https://img.shields.io/badge/CODEFORCES-0A0A0F?style=for-the-badge&logo=codeforces&logoColor=00E5FF" alt="Codeforces"/>
-</a>
+<!-- ========================================================= -->
 
-</div>
+<h1 align="center">
+  Hi 👋, I'm Md Mobashir Imam
+</h1>
+
+<h3 align="center">
+  AI/ML Enthusiast • Python Developer • Software Developer • Problem Solver
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Mob-Imam-79">
+    <img src="https://komarev.com/ghpvc/?username=Mob-Imam-79&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Mob-Imam-79?tab=followers">
+    <img src="https://img.shields.io/github/followers/Mob-Imam-79?label=Followers&style=flat&color=blue" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Mob-Imam-79?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat&logo=github" alt="Repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mob-Imam-79">
+    <img src="https://img.shields.io/github/last-commit/Mob-Imam-79/Mob-Imam-79?style=flat&logo=github&label=Last%20Update" alt="Last Update"/>
+  </a>
+  <a href="https://github.com/Mob-Imam-79">
+    <img src="https://img.shields.io/github/created-at/Mob-Imam-79/Mob-Imam-79?style=flat&logo=github&label=Profile%20Created" alt="Profile Created"/>
+  </a>
+</p>
 
 ---
+
+## 🚀 About Me
+
+I'm a **Computer Science & Engineering student at NIT Patna** with a strong interest in **Artificial Intelligence, Machine Learning, Python development, and intelligent software systems**.
+
+I enjoy turning ideas into practical solutions — from automation tools and web applications to AI-powered systems.
+
+* 🔭 Currently working on **Telegram Forwarding Bot**
+* 🌱 Currently learning **Django & Machine Learning**
+* 🤖 Interested in **Artificial Intelligence & Autonomous AI Systems**
+* 🧠 Exploring **Machine Learning, Deep Learning & Generative AI**
+* 💻 Practicing **Data Structures & Algorithms**
+* 🌐 Building applications using **Python, Django & modern web technologies**
+* 🤝 Open to collaborating on **AI/ML, healthcare AI, automation and open-source projects**
+* 🚀 Interested in building software that solves **real-world problems**
+* 📫 Reach me at **[mobashirimam120@gmail.com](mailto:mobashirimam120@gmail.com)**
+
+> **"Learn continuously. Build consistently. Solve meaningful problems."**
+
+---
+
+## 🧠 What I'm Focused On
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01 / ABOUT`
+### 🤖 Artificial Intelligence
 
-**Computer Science & Engineering student at National Institute of Technology, Patna.**
-
-I build practical software around **AI/ML, Generative AI, autonomous agents, Python backends, automation, and problem solving**.
-
-```text
-┌─────────────────────────────────┐
-│ CURRENT MISSION                 │
-├─────────────────────────────────┤
-│ AI Engineering                  │
-│ Backend Development              │
-│ Machine Learning                 │
-│ Autonomous Agents                │
-│ DSA / Competitive Programming   │
-└─────────────────────────────────┘
-```
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Large Language Models
+* AI-powered applications
+* Autonomous AI systems
+* AI for healthcare
 
 </td>
+
 <td width="50%" valign="top">
 
-<img src="./assets/developer-core.svg" width="100%" alt="Animated AI developer core"/>
+### 💻 Software Development
+
+* Python Development
+* Django
+* REST APIs
+* Backend Development
+* Database Systems
+* Software Engineering
+* Data Structures & Algorithms
 
 </td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-<img src="./assets/ai-network.svg" width="100%" alt="Animated autonomous AI network"/>
+## 🛠️ Tech Stack
 
-</td>
-<td width="50%" valign="top">
+### 👨‍💻 Programming Languages
 
-### `02 / CURRENTLY BUILDING`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
 
-**Telegram Forwarding Bot**
+### 🤖 AI / Machine Learning
 
-A Django + Telethon automation platform for multi-channel forwarding, duplicate protection, Telegram authentication, FloodWait handling, subscriptions and licensing.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-### `03 / CURRENTLY LEARNING`
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-- Django
-- Machine Learning
-- Generative AI
-- Autonomous AI systems
-- Backend engineering
+### 🌐 Web Development
 
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,django" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,blender,photoshop" />
+</p>
 
 ---
 
-## `04 / TECH STACK`
+# 🚀 Featured Projects
+
+Here are some projects I'm currently building and exploring.
 
 <table>
 <tr>
-<td align="center" width="20%"><b>LANGUAGES</b><br/><br/>
-Python • C++ • C • Java • JavaScript
-</td>
-<td align="center" width="20%"><b>AI / ML</b><br/><br/>
-PyTorch • TensorFlow • scikit-learn • NumPy • Pandas
-</td>
-<td align="center" width="20%"><b>WEB</b><br/><br/>
-Django • React • HTML • CSS • Bootstrap • Tailwind
-</td>
-<td align="center" width="20%"><b>DATA</b><br/><br/>
-PostgreSQL • MySQL • MongoDB • SQLite
-</td>
-<td align="center" width="20%"><b>TOOLS</b><br/><br/>
-Git • Docker • Postman • VS Code • Blender
-</td>
-</tr>
-</table>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,pytorch,tensorflow,sklearn,numpy,pandas,django,react,html,css,tailwind,postgres,mysql,mongodb,sqlite,git,docker,postman,vscode,blender&perline=12" alt="Technology icons"/>
-
-</div>
-
----
-
-## `05 / FEATURED PROJECTS`
-
-<table>
-<tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🤖 Autonomous AI Clinical Assistant
 
-AI-powered healthcare assistant using **LangGraph, Gemini, Streamlit, FAISS and SQLite** for intelligent reasoning, clinical tools, medical-report analysis and patient memory.
+AI-powered healthcare assistant focused on intelligent clinical assistance and autonomous AI workflows.
 
-**Focus**
-- Autonomous agents
-- Generative AI
-- Healthcare AI
-- RAG / vector search
+**Focus:**
 
-<a href="https://github.com/Mob-Imam-79/Autonomous-AI-Clinical-Assistant">↗ Repository</a>
+* Artificial Intelligence
+* Healthcare AI
+* Autonomous Agents
+* Intelligent Decision Support
+
+<a href="https://github.com/Mob-Imam-79/Autonomous-AI-Clinical-Assistant">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📡 Telegram Forwarding Bot
 
-Automation platform built around **Django + Telethon** with multi-channel forwarding, duplicate protection and FloodWait handling.
+A Telegram automation project designed to simplify and automate message forwarding workflows.
 
-**Focus**
-- Python
-- Telegram API
-- Automation
-- Backend systems
+**Focus:**
 
-<a href="https://github.com/Mob-Imam-79/telegram-forwarding-bot">↗ Repository</a>
+* Python
+* Telegram API
+* Automation
+* Backend Development
 
-</td>
-
-<td width="33%" valign="top">
-
-### ⚔️ Competitive Programming
-
-A structured collection of solutions and learning work across **C++ / DSA / algorithms**.
-
-**Focus**
-- Data Structures
-- Algorithms
-- Codeforces
-- Problem solving
-
-<a href="https://github.com/Mob-Imam-79/competitive-programming-">↗ Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-### 🍽️ Mess Food Rating Dashboard
-
-Java-based project for working with a mess-food rating/dashboard workflow.
-
-**Focus**
-- Java
-- Application development
-- Data handling
-
-<a href="https://github.com/Mob-Imam-79/Mess-Food-Rating-Dashboard">↗ Repository</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧠 AI Mini Project
-
-A compact AI-focused project exploring practical application development.
-
-**Focus**
-- AI
-- JavaScript
-- Experimentation
-
-<a href="https://github.com/Mob-Imam-79/AI-Mini-Project">↗ Repository</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🥁 Drum Kit
-
-Interactive browser-based drum kit built with JavaScript.
-
-**Focus**
-- JavaScript
-- DOM
-- Browser interaction
-- Frontend fundamentals
-
-<a href="https://github.com/Mob-Imam-79/Drum-Kit">↗ Repository</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## `06 / GITHUB SYSTEM STATUS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mob-Imam-79&show_icons=true&hide_border=true&bg_color=05060B&title_color=00E5FF&icon_color=7C3AED&text_color=A8B3C7&ring_color=00E5FF" height="180" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mob-Imam-79&layout=compact&hide_border=true&bg_color=05060B&title_color=00E5FF&text_color=A8B3C7" height="180" alt="Top languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mob-Imam-79&theme=dark&hide_border=true&background=05060B&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=A8B3C7&dates=667085" width="70%" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `07 / CONTRIBUTION GRID`
-
-<div align="center">
-
-<img src="./assets/github-contribution-snake.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-</div>
-
----
-
-## `08 / 3D CONTRIBUTION LANDSCAPE`
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="Animated 3D GitHub contribution landscape"/>
-
-</div>
-
----
-
-## `09 / ENGINEERING FOCUS`
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-**AI / ML**
-
-Machine Learning  
-Deep Learning  
-Generative AI  
-LLM Applications
-
-</td>
-<td width="25%" align="center">
-
-**AGENTS**
-
-LangGraph  
-Tool Calling  
-Memory  
-Autonomous Workflows
-
-</td>
-<td width="25%" align="center">
-
-**BACKEND**
-
-Python  
-Django  
-REST APIs  
-Databases
-
-</td>
-<td width="25%" align="center">
-
-**PROBLEM SOLVING**
-
-C++  
-DSA  
-Algorithms  
-Competitive Programming
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="./assets/learning-animation.svg" width="70%" alt="Animated learning pipeline"/>
-
-</div>
-
----
-
-## `10 / ACHIEVEMENT`
-
-<div align="center">
-
-### JEE Main 2024 — 99.07 Percentile
-
-**Computer Science & Engineering • National Institute of Technology, Patna**
-
-</div>
-
----
-
-## `11 / CONNECT`
-
-<div align="center">
-
-<a href="mailto:mobashirimam120@gmail.com">
-<img src="https://img.shields.io/badge/MAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=05060B" alt="Email"/>
+<a href="https://github.com/Mob-Imam-79/telegram-forwarding-bot">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
 </a>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Mob-Imam-79?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-4285F4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Mob-Imam-79&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mob-Imam-79&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Mob-Imam-79&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mob-Imam-79&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Mob-Imam-79&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/mobashir_bits120">
+  <img src="https://img.shields.io/badge/LeetCode-Mobashir--Bits120-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://codeforces.com/profile/mdmobashirsiddique">
+  <img src="https://img.shields.io/badge/Codeforces-mdmobashirsiddique-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/mdmobashirimam">
+  <img src="https://img.shields.io/badge/Kaggle-mdmobashirimam-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://linkedin.com/in/md-mobashir-imam">
-<img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Mob-Imam-79">
-<img src="https://img.shields.io/badge/GITHUB-11131A?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/mdmobashirimam">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="45" />
 </a>
 
-<br/><br/>
+</p>
 
-<img src="./assets/footer.svg" width="100%" alt="Animated profile footer"/>
+<p align="center">
+  <a href="mailto:mobashirimam120@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mobashirimam120%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-</div>
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on projects involving:
+
+```text
+🤖 Artificial Intelligence
+🧠 Machine Learning
+🏥 AI-powered Healthcare
+🚀 Autonomous AI Systems
+🐍 Python Development
+🌐 Django / Backend Development
+📊 Data Science
+💻 Open Source
+🧩 Problem Solving & DSA
+```
+
+If you're building something interesting, feel free to reach out!
+
+---
+
+# 🐍 Contribution Snake
+
+<!--
+IMPORTANT:
+This section requires a GitHub Actions workflow.
+
+Create:
+.github/workflows/snake.yml
+
+and use a contribution-snake workflow to generate:
+output/github-contribution-grid-snake.svg
+-->
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Mob-Imam-79/Mob-Imam-79/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+# 📌 Current Goals
+
+```text
+[████████████████████░░] Machine Learning
+[██████████████████░░░░] Django
+[████████████████░░░░░░] AI Engineering
+[███████████████░░░░░░░] Deep Learning
+[██████████████░░░░░░░░] DSA & Competitive Programming
+[████████████░░░░░░░░░░] Open Source
+```
+
+> My goal is to continuously improve my engineering skills and build intelligent systems that create real-world impact.
+
+---
+
+<h3 align="center">
+  ⭐ If you find my work interesting, consider starring my repositories!
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Mob-Imam-79">
+    <img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building. Learning. Experimenting. Repeating. 🚀</i>
+</p>

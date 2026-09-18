@@ -11,11 +11,27 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/github-contribution-snake.svg?palette=github-dark&color_snake=%2300E5FF&color_dots=%230d1117%2C%23161b22%2C%2330363d%2C%237C3AED%2C%2300E5FF
             assets/github-contribution-snake-dark.svg?palette=github-dark&color_snake=%237C3AED&color_dots=%230d1117%2C%23161b22%2C%2330363d%2C%2300E5FF%2C%237C3AED
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/github-contribution-snake.svg assets/github-contribution-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update contribution snake"
+            git push
+          fi
